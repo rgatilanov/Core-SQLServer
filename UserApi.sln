@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi", "UserApi.csproj", "{987ABD1F-46D7-4401-A7E5-40F85AD0A476}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Library", "Api.Library\Api.Library.csproj", "{0151292A-9E66-428E-A60E-87600B575009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987ABD1F-46D7-4401-A7E5-40F85AD0A476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987ABD1F-46D7-4401-A7E5-40F85AD0A476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987ABD1F-46D7-4401-A7E5-40F85AD0A476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987ABD1F-46D7-4401-A7E5-40F85AD0A476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0151292A-9E66-428E-A60E-87600B575009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0151292A-9E66-428E-A60E-87600B575009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0151292A-9E66-428E-A60E-87600B575009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0151292A-9E66-428E-A60E-87600B575009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517BCEA3-3D41-444B-8213-5CAD016B662D}
+	EndGlobalSection
+EndGlobal

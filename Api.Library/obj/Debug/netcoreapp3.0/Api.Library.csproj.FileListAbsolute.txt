@@ -1,0 +1,15 @@
+C:\Users\ProBook 450 HP\source\repos\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.deps.json
+C:\Users\ProBook 450 HP\source\repos\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.dll
+C:\Users\ProBook 450 HP\source\repos\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.csprojAssemblyReference.cache
+C:\Users\ProBook 450 HP\source\repos\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.AssemblyInfoInputs.cache
+C:\Users\ProBook 450 HP\source\repos\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.AssemblyInfo.cs
+C:\Users\ProBook 450 HP\source\repos\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.pdb
+C:\Users\ProBook 450 HP\source\repos\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.dll
+C:\Users\ProBook 450 HP\source\repos\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.pdb
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.deps.json
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.dll
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\bin\Debug\netcoreapp3.0\Api.Library.pdb
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.AssemblyInfoInputs.cache
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.AssemblyInfo.cs
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.dll
+C:\Users\ProBook 450 HP\source\repos\UserApi\Api.Library\obj\Debug\netcoreapp3.0\Api.Library.pdb
